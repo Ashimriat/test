@@ -1,3 +1,4 @@
-1. npm install
-2. npm run build:prod
-3. Open dist/index.html
+1. git clone https://github.com/Ashimriat/test.git
+2. npm install
+3. npm run build:prod
+4. Open dist/index.html

@@ -1,0 +1,1 @@
+import{_ as t,v as n,x as r,t as s}from"./Bd8_sbCu.js";const o={};function a(c,e){return s(),n("div",null,e[0]||(e[0]=[r("h1",null,"Nuxt3 x GitHup Pages",-1)]))}const u=t(o,[["render",a]]);export{u as default};
